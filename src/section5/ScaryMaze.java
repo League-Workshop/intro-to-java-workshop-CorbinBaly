@@ -54,7 +54,7 @@ public class ScaryMaze extends JPanel implements Runnable, MouseMotionListener {
 	}
 		//13. If the mouse is on the end color
 		if(mouseColor==-11927788) {
-		JOptionPane.showMessageDialog(null," You Escaped the roblox Dabber! You Win!");
+		JOptionPane.showMessageDialog(null," You escaped the roblox Dabber! You Win!");
 		}
 	// pop up a message to tell them they won
 	}
